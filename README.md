@@ -5,4 +5,4 @@ Basic chat written in NodeJS
 
 Hosted here ;)
 
-http://chat-service-bynelk.herokuapp.com/Default.html
+http://chat-service-bynelk.herokuapp.com/
